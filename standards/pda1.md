@@ -254,5 +254,6 @@
 ```
 
 ## Example
+![PlantUML model](http://www.plantuml.com/plantuml/dpng/5On14e9030Jll48V82cldlW95JSHLfUmbKpq-yArkwkd03lUiTjmhLPQYgQtomhqU10v_yQbOirdXdhP3MeOoxwHfqfTr6-1MZvDdRw5N5z1gx84UM0-jtDlRCYjKO1Ds0_NXUzZFzWmgSbP_G40)
 
-![PDA1 Expample](./img/PDA1_example.png)
+
